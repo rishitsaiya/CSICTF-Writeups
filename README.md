@@ -1,2 +1,3 @@
-# CSICTF-Writeups-
-CSICTF by VIT - One of the good CTFs I have come across.
+# CSICTF
+
+https://ctf.csivit.com
