@@ -6,7 +6,7 @@ When we run `ssh user1@chall.csivit.com -p 30630` and password as `find32`, we a
 
 A simple `ls` command gives us many files which are random.
 
-```
+```bash
 02KG7GI3  66SLWGGM  AZF6YNNW  HI1HXC9E	LP29J6MU  PM7NRHP0  VCSYBT6V
 02M95EZJ  6IGISUOK  BAL0FX4Y  HJ7SLXWJ	LQWDHMT1  PMWQY71J  VFFKFKFP
 041Q5VQ6  6IS45I48  BDMSPZFU  HKX85U5A	LR9H9RJ4  PN7VNWMY  VL8QUY6U
