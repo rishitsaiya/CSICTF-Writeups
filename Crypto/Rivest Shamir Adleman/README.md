@@ -42,7 +42,6 @@ print(binascii.unhexlify(hex_str))
 When I run this by `python3 flag.py`, it game following output:
 
 ```bash
- 
 b"csictf{sh0uld'v3_t4k3n_b1gg3r_pr1m3s}"
 ```
 Voila! There we have our flag.
