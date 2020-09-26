@@ -6,7 +6,7 @@ After I downloaded `sky.jpg`, I tried simple `strings sky.jpg | grep {`
 
 <img src="sky.jpg">
 
-```
+```bash
 n"l`{
 X#,{c#
 <{{!g6
