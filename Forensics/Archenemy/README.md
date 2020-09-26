@@ -9,13 +9,13 @@ So, I went for steghide tool this time.
 
 I tried `steghide extract -sf arched.png` and with a empty passphrase and it gave me this:
 
-```
+```bash
 wrote extracted data to "flag.zip".
 ```
 #### Step-3:
 So, now I had `flag.zip`, which had an image `meme.jpg`, but the zip was encrypted. So I had to use tool of that.
 
-```
+```bash
 $ zipCracker/zipcracker.py -f flag.zip -w /usr/share/wordlists/rockyou.txt 
     3638 / 14344394 |   0.00% -> masones1lndg456ce
 
